@@ -19,7 +19,11 @@ const Footer = () => {
           <p className='p__opensans'>+1 212-555-1230</p>
         </div>
 
-        
+        <div className='app__footer-links_logo'>
+          <img src={images.gericht} alt='footer_logo' />
+        </div>
+
+
       </div>
     </div>
   );
